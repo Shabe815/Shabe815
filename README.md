@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shabe815
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning App Development
-- 💞️ I’m looking to collaborate on D
+- 💞️ I’m looking to collaborate on Development
 - 📫 How to reach me shabe815@gmail.com
 
 <!---
